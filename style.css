@@ -200,6 +200,7 @@
     height: 592px;
     background-size: 100% 592px;
     background-color:#36415D;
+    overflow-x:hidden;
 }
 .sec22{
     display: flex;
@@ -244,6 +245,7 @@
 {
     .sec2{
         height: 1190px;
+        overflow-x: hidden;
     }
     .sec22{
         display: flex;
